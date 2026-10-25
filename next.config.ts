@@ -22,7 +22,10 @@ const nextConfig: NextConfig = {
       },
     },
     ...(isGithubPages && {
-      resolveAlias: { "@/app/actions": "./src/lib/enquiry-static.ts" },
+      resolveAlias: {
+        "@/app/actions": "./src/lib/enquiry-static.ts",
+        "@/lib/data": "./src/lib/data-static.ts",
+      },
     }),
   },
   ...(isGithubPages && {
