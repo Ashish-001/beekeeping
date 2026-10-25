@@ -1,0 +1,266 @@
+[
+  {
+    "id": "p_rs6ikg",
+    "slug": "raw-wildflower-honey",
+    "name": "Raw Wildflower Honey",
+    "category": "Honey",
+    "tagline": "Unfiltered sunshine from a hundred Himalayan blooms",
+    "description": "Our signature honey, gathered from wild meadows in the foothills. Never heated, never filtered beyond a simple strain — so the pollen, enzymes and full floral character stay exactly as the bees made them. Expect a bright, floral sweetness that crystallises naturally over time.",
+    "priceNote": "From ₹450",
+    "sizes": [
+      "250 g",
+      "500 g",
+      "1 kg"
+    ],
+    "highlights": [
+      "Raw & unheated",
+      "Single-origin apiary",
+      "Naturally crystallises"
+    ],
+    "color": "#E8A317",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:19:53.567Z",
+    "updatedAt": "2026-10-25T09:19:53.567Z"
+  },
+  {
+    "id": "p_rtijwp",
+    "slug": "acacia-gold-honey",
+    "name": "Acacia Gold Honey",
+    "category": "Honey",
+    "tagline": "Light, delicate and slow to crystallise",
+    "description": "Pale as morning light, acacia honey is mild and clean with a gentle vanilla finish. Its high fructose content keeps it liquid for months — perfect for tea, yogurt and baking.",
+    "priceNote": "From ₹520",
+    "sizes": [
+      "250 g",
+      "500 g"
+    ],
+    "highlights": [
+      "Mild & smooth",
+      "Stays liquid longer",
+      "Great for tea"
+    ],
+    "color": "#F4C95D",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:18:53.567Z",
+    "updatedAt": "2026-10-25T09:18:53.567Z"
+  },
+  {
+    "id": "p_rurb9g",
+    "slug": "dark-forest-honey",
+    "name": "Dark Forest Honey",
+    "category": "Honey",
+    "tagline": "Bold, malty and rich in minerals",
+    "description": "Collected from deep forest hives where bees forage on wild trees and honeydew. Dark amber, robust and earthy with notes of caramel and molasses. A favourite with chefs.",
+    "priceNote": "From ₹580",
+    "sizes": [
+      "250 g",
+      "500 g"
+    ],
+    "highlights": [
+      "Rich in antioxidants",
+      "Earthy, malty taste",
+      "Small batch"
+    ],
+    "color": "#8B4A12",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:17:53.567Z",
+    "updatedAt": "2026-10-25T09:17:53.567Z"
+  },
+  {
+    "id": "p_rvshj5",
+    "slug": "litchi-blossom-honey",
+    "name": "Litchi Blossom Honey",
+    "category": "Honey",
+    "tagline": "A fragrant seasonal harvest",
+    "description": "Harvested only during the brief litchi bloom, this honey carries a distinctive fruity aroma and a soft floral finish. Limited every year.",
+    "priceNote": "From ₹490",
+    "sizes": [
+      "250 g",
+      "500 g"
+    ],
+    "highlights": [
+      "Seasonal",
+      "Fruity aroma",
+      "Limited edition"
+    ],
+    "color": "#F0B23A",
+    "image": null,
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-10-25T09:16:53.567Z",
+    "updatedAt": "2026-10-25T09:16:53.567Z"
+  },
+  {
+    "id": "p_rwuthb",
+    "slug": "natural-honeycomb",
+    "name": "Natural Honeycomb",
+    "category": "Honeycomb",
+    "tagline": "Honey exactly as the bees built it",
+    "description": "Cut straight from the frame and packed whole. Chew the wax, spread it on toast or crown a cheese board — it does not get more natural than this.",
+    "priceNote": "From ₹750",
+    "sizes": [
+      "200 g",
+      "400 g"
+    ],
+    "highlights": [
+      "Edible wax",
+      "Zero processing",
+      "Show-stopper on a platter"
+    ],
+    "color": "#E9B33E",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:15:53.567Z",
+    "updatedAt": "2026-10-25T09:15:53.567Z"
+  },
+  {
+    "id": "p_rxm3xn",
+    "slug": "bee-pollen-granules",
+    "name": "Bee Pollen Granules",
+    "category": "Bee Pollen",
+    "tagline": "Nature’s multivitamin",
+    "description": "Colourful pollen pellets collected at the hive entrance and gently dried. Packed with protein, vitamins and amino acids — sprinkle over smoothie bowls and oats.",
+    "priceNote": "From ₹390",
+    "sizes": [
+      "100 g",
+      "250 g"
+    ],
+    "highlights": [
+      "Protein-rich",
+      "Gently air-dried",
+      "Superfood topping"
+    ],
+    "color": "#D9A21B",
+    "image": null,
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-10-25T09:14:53.567Z",
+    "updatedAt": "2026-10-25T09:14:53.567Z"
+  },
+  {
+    "id": "p_ryyvlq",
+    "slug": "propolis-tincture",
+    "name": "Propolis Tincture",
+    "category": "Propolis",
+    "tagline": "The hive’s natural shield",
+    "description": "Bees make propolis from tree resins to protect their home. We extract it into a potent tincture, traditionally used to support immunity and soothe the throat.",
+    "priceNote": "From ₹420",
+    "sizes": [
+      "30 ml"
+    ],
+    "highlights": [
+      "High potency",
+      "Traditional remedy",
+      "Dropper bottle"
+    ],
+    "color": "#7A3E0E",
+    "image": null,
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-10-25T09:13:53.567Z",
+    "updatedAt": "2026-10-25T09:13:53.567Z"
+  },
+  {
+    "id": "p_rzum3q",
+    "slug": "fresh-royal-jelly",
+    "name": "Fresh Royal Jelly",
+    "category": "Royal Jelly",
+    "tagline": "The food of queens",
+    "description": "A rare, creamy secretion reserved for queen bees. Harvested in tiny quantities and kept frozen to preserve freshness.",
+    "priceNote": "On request",
+    "sizes": [
+      "10 g",
+      "25 g"
+    ],
+    "highlights": [
+      "Rare & precious",
+      "Kept frozen",
+      "Nutrient dense"
+    ],
+    "color": "#F6E3A1",
+    "image": null,
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-10-25T09:12:53.567Z",
+    "updatedAt": "2026-10-25T09:12:53.567Z"
+  },
+  {
+    "id": "p_s00jz1",
+    "slug": "pure-beeswax-candles",
+    "name": "Pure Beeswax Candles",
+    "category": "Beeswax",
+    "tagline": "Hand-poured, honey-scented glow",
+    "description": "Hand-poured from our own filtered beeswax with cotton wicks. They burn longer, drip less and fill the room with a soft honey scent.",
+    "priceNote": "From ₹350",
+    "sizes": [
+      "Set of 2",
+      "Set of 4"
+    ],
+    "highlights": [
+      "100% beeswax",
+      "Long, clean burn",
+      "Hand-poured"
+    ],
+    "color": "#F2C14E",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:11:53.567Z",
+    "updatedAt": "2026-10-25T09:11:53.567Z"
+  },
+  {
+    "id": "p_s1w1rc",
+    "slug": "beeswax-lip-balm",
+    "name": "Beeswax Lip Balm",
+    "category": "Beeswax",
+    "tagline": "Soft lips, the natural way",
+    "description": "Beeswax, cold-pressed oils and a touch of honey. Nothing else.",
+    "priceNote": "From ₹180",
+    "sizes": [
+      "Single",
+      "Pack of 3"
+    ],
+    "highlights": [
+      "Natural ingredients",
+      "No petroleum",
+      "Pocket-friendly"
+    ],
+    "color": "#E7B95A",
+    "image": null,
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-10-25T09:10:53.567Z",
+    "updatedAt": "2026-10-25T09:10:53.567Z"
+  },
+  {
+    "id": "p_s2puw5",
+    "slug": "the-hive-gift-box",
+    "name": "The Hive Gift Box",
+    "category": "Gift Sets",
+    "tagline": "A curated taste of the apiary",
+    "description": "Three honeys, a mini honeycomb and a wooden dipper, wrapped in our signature hexagon box. Corporate and wedding orders welcome.",
+    "priceNote": "From ₹1,800",
+    "sizes": [
+      "Standard",
+      "Premium"
+    ],
+    "highlights": [
+      "Gift-ready",
+      "Custom notes",
+      "Bulk orders welcome"
+    ],
+    "color": "#C98A12",
+    "image": null,
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-10-25T09:09:53.567Z",
+    "updatedAt": "2026-10-25T09:09:53.567Z"
+  }
+]

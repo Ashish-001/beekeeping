@@ -30,8 +30,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files — real values stay local; only the example is committed
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +40,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local data
+# products.json and data/uploads/ ARE committed: a static GitHub Pages build
+# can only show products and photos that are in the repo.
+# Enquiries contain visitors' personal details, so they never go to GitHub.
+/data/enquiries.json
+/data/*.tmp
+
+# editors / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+Thumbs.db
