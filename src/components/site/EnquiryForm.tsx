@@ -80,6 +80,7 @@ export function EnquiryForm({ productId, productName, sizes = [], dark = false }
         ) : (
           <motion.form key={`form-${formKey}`} action={action} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="space-y-4">
             {productId && <input type="hidden" name="productId" value={productId} />}
+            {productName && <input type="hidden" name="productName" value={productName} />}
             {/* honeypot */}
             <input type="text" name="company" tabIndex={-1} autoComplete="off" className="hidden" aria-hidden="true" />
 

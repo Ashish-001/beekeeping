@@ -4,8 +4,10 @@ import { HoneyJar } from "./HoneyJar";
 /** Photo when the admin uploaded one, otherwise a tinted illustrated jar. */
 export function ProductVisual({ product, className = "" }: { product: Product; className?: string }) {
   if (product.image) {
+    // Plain <img> doesn't get Next's basePath, so add it for the GitHub Pages build
+    const src = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${product.image}`;
     // eslint-disable-next-line @next/next/no-img-element
-    return <img src={product.image} alt={product.name} className={`h-full w-full object-cover ${className}`} />;
+    return <img src={src} alt={product.name} className={`h-full w-full object-cover ${className}`} />;
   }
   return (
     <div className={`flex h-full w-full items-center justify-center p-8 ${className}`}>
